@@ -4,3 +4,6 @@ I used html, css and javascript.
 
 1 picture is the main Gallery page there are 12 pictures and welcome title
 ![main page](https://user-images.githubusercontent.com/117292231/199566418-802af94b-af45-48e5-bb39-1ce97bbc1a79.png)
+
+2 picture is the pop up each picture is come out on the main page
+![popup page](https://user-images.githubusercontent.com/117292231/199566849-545cff09-26f0-4904-9ad8-859b51fc5bf8.png)

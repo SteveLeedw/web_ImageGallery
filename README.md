@@ -1,4 +1,4 @@
-# web_project1
+# web_ImageGallery
 This project is simple Gallery pop up project and
 I used html, css and javascript. 
 
